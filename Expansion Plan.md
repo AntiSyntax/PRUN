@@ -36,4 +36,6 @@
 
 
 ## Future Plan:
-WIP
+
+### Step 1:
+    Obtain a 2nd permit for my Deimos base. Build 5 more HB1's and 8 EXT's to offset ALO purchasing. (~260,000 AIC)
