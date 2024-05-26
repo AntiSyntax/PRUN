@@ -1,41 +1,12 @@
 # PRUN Expansion Plan (May 14, 2024)
 
-## Current Progress (Part 1)
-    Location: Deimos (ZV-759c)
-    Size: 495 / 500   (1 / 3 Permits)
+## Timeline:
+Current Stage: Finished Part 1
 
-### Buildings:
-    20x SME (AL)
-    10x HB1 (1K Pioneers)
+### Part 0:
+    Build a base at Deimos. Specialize in SME. Import C, O, FLX, RAT, DW, OVE, COF, PWO, ALO and export AL.
 
-### Burn:
+### Part 1:
+    Obtain a 2nd permit for my Deimos base. Build 5 more HB1's and 8 EXT's to offset ALO purchasing. ALO import reduces from 300/day to 75/day (~260k AIC).
 
-    |  C -47  |  O -47  | FLX -47 | ALO -281 |
-    | RAT -40 |  DW -40 |  OVE -5 |
-    | COF -5  |  PWO -2 |
-    | AL +187 |
-
-### I/O:
-    CX: AL [O], C [I], O [I], FLX [I], RAT [I],
-        DW [I], OVE [I], CF [I], PWO [I]
-    AIP: ALO [I]
-    LM: (Replaces imports when available)
-
-### Pros & Cons:
-    Pros: 
-        Specialized
-        Simple
-        No advanced workforce needed
-        Cheap
-        3 - 6 hours to CX (Default fuel usage)
-    Cons: 
-        High logistics demand
-        High import costs
-        Trouble sourcing ALO locally
-        FTL to CX
-
-
-## Future Plan:
-
-### Step 1:
-    Obtain a 2nd permit for my Deimos base. Build 5 more HB1's and 8 EXT's to offset ALO purchasing. (~260,000 AIC)
+### Part 2:
